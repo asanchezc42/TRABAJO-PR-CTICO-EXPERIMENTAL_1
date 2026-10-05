@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "nombre": "Anahi",
+    "apellido": "Sanchez",
+    "email": "taekook2601132006@gmail.com",
+    "carnet": "EST001",
+    "notas": {
+      "Estructura de Datos": [
+        18.0
+      ],
+      "Python": [
+        20.0
+      ]
+    },
+    "materias": [
+      "Estructura de Datos",
+      "Python"
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Maria",
+    "apellido": "Velez",
+    "email": "mariavelez12@gmail.com",
+    "carnet": "EST002",
+    "notas": {
+      "Python": [
+        17.0
+      ]
+    },
+    "materias": [
+      "Python"
+    ]
+  }
+]
